@@ -23,13 +23,11 @@ Auto screenshot and ai response overlay, great for multiple choice questions!
 
 
 
-# Limitations
-- Camera passthrough not avaliable yet
-
 # Dev Branch
 Need premium version or trial run? Contact below.
 
 # Contact
 Discord: transcient__12021
+
 
 
