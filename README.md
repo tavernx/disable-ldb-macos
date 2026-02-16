@@ -27,7 +27,8 @@ Auto screenshot and ai response overlay, great for multiple choice questions!
 Need premium version or trial run? Contact below.
 
 # Contact
-Discord: transcient__12021
+Discord: tavern_12021
+
 
 
 
