@@ -1,5 +1,5 @@
 # disable-lockdown-browser
-Disable lockdown for lockdown browser. Works on Windows, Mac, Linux, Chromebook, Managed Computer, etc. 
+Disable lockdown for lockdown browser for mac! Works with the latest version (ever after overlay patch on version feb 6 2026)
 
 
 # Features
@@ -19,6 +19,7 @@ Demo coming soon
 
 # Contact on discord for demo or account approval
 Discord: tavern_12021
+
 
 
 
