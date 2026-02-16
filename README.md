@@ -1,8 +1,6 @@
 # disable-lockdown-browser
 Disable lockdown for lockdown browser. Works on Windows, Mac, Linux, Chromebook, Managed Computer, etc. 
 
-View details here: https://lockdown-browser-bypass.vercel.app
-
 
 # Features
 - Undetectable - Even if program crashes, you will NEVER be flagged or banned
@@ -13,21 +11,15 @@ View details here: https://lockdown-browser-bypass.vercel.app
 - Questions or other info? Contact me
 
 # Demo
-![Demo — disable-lockdown-browser](assets/Demo1.gif)
+Coming soon
 
 
 # AI Mode
-Auto screenshot and ai response overlay, great for multiple choice questions!
+Demo coming soon
 
-![Demo — disable-lockdown-browser](assets/AIMode1.png)
-
-
-
-# Dev Branch
-Need premium version or trial run? Contact below.
-
-# Contact
+# Contact on discord for demo or account approval
 Discord: tavern_12021
+
 
 
 
