@@ -1,6 +1,8 @@
 # disable-lockdown-browser
 Disable lockdown for lockdown browser for mac! Works with the latest version (ever after overlay patch on version feb 6 2026) 
 
+[msys.symhost.app](https://msys.symhost.app)
+
 
 # Features
 - Undetectable - Even if program crashes, you will NEVER be flagged or banned
@@ -11,7 +13,8 @@ Disable lockdown for lockdown browser for mac! Works with the latest version (ev
 - Questions or other info? Contact me
 
 # Demo
-Coming soon
+[Youtube Demo - Public Test](https://youtu.be/LkeBlQvZVRs)
+[Youtube Demo - Real Test](https://youtu.be/J0W-sXFzQ5w)
 
 
 # AI Mode
@@ -19,6 +22,7 @@ Demo coming soon
 
 # Contact on discord for demo or account approval
 Discord: tavern_12021
+
 
 
 
